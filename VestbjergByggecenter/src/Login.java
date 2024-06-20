@@ -37,8 +37,11 @@ public class Login extends JFrame {
 		});
 	}
 	
-	//hello :D
+	//hello :D i'm so pretty <3
 
+	
+	//bruh
+	
 	/**
 	 * Create the frame.
 	 */
